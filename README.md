@@ -225,11 +225,6 @@ AI PLATFORM / CAPSTONE
 
 ---
 
-### Full-Stack Projects
-
-* [JobBoard-API](https://github.com/varma5359/job-board-api)
-
----
 # 15. 🎓 TEACHING & INTERVIEW RESOURCES
 
 ### Python
@@ -249,6 +244,15 @@ AI PLATFORM / CAPSTONE
 ### ML / DL / NLP
 
 * [ML-DL-NLP-Interview_Questions](https://github.com/varma5359/ML-DL-NLP-Interview_Questions)
+
+---
+
+
+# Full-Stack Projects
+
+* [JobBoard-API](https://github.com/varma5359/job-board-api)
+
+* [MediTrack-API](https://github.com/varma5359/meditrack-api)
 
 ---
 

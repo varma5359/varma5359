@@ -225,6 +225,11 @@ AI PLATFORM / CAPSTONE
 
 ---
 
+### Full-Stack Projects
+
+* [JobBoard-API](https://github.com/varma5359/job-board-api)
+
+---
 # 15. 🎓 TEACHING & INTERVIEW RESOURCES
 
 ### Python

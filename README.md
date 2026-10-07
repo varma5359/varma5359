@@ -51,9 +51,17 @@ Master of Computer Science
 
 I am a **Data Science and AI Engineer** with a **Master of Computer Science**, focused on the complete AI engineering lifecycle: from data analytics, machine learning and MLOps to deep learning, GenAI, RAG, Agentic AI, MCP and AI automation.
 
-I build practical, project-driven solutions that turn business problems into working systems: models exposed through APIs, wrapped in applications, and extended with tools, retrieval and agents.
+I have professional experience working with **IBM** and have also worked extensively in **technical training and student development**, helping learners build practical skills for real-world IT and AI careers.
 
-Alongside engineering, I work as a **technical trainer**, teaching practical Data Science, Machine Learning, GenAI and Agentic AI, and helping learners prepare for interviews through project-based learning.
+I build practical, project-driven solutions that turn business problems into working systems: models exposed through APIs, wrapped in applications, and extended with tools, retrieval and intelligent agents.
+
+As a **technical trainer**, my key strength is preparing students to think and work **like developers**, not just learn concepts. I focus on practical implementation, project development, debugging, problem-solving, business scenarios and interview preparation.
+
+I help learners progress from **understanding a concept → writing code → building projects → solving real-world problems → explaining their solution in interviews**.
+
+My teaching approach is simple:
+
+**Learn → Code → Build → Debug → Solve → Think Like a Developer → Prepare for Interviews**
 
 
 <a name="technical-skills"></a>

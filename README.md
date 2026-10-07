@@ -1,12 +1,19 @@
 <div align="center">
-# 👋 Hi, I am Ravi Varma
-### Data Science Trainer • AI Engineer • GenAI & Agentic AI Practitioner
+
+# Ravi Varma
+
+### Data Science • AI Engineer • GenAI • Agentic AI
+
+<img src="./profile-banner.svg" width="100%" alt="Ravi Varma - Data Science and AI Engineering"/>
+
 **Building practical AI systems from data → models → applications → intelligent agents**
 
-<img src="https://img.shields.io/badge/Data%20Science-Engineering-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/GenAI-Agentic%20AI-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-Engineering-2563EB?style=for-the-badge" alt="Data Science"/> <img src="https://img.shields.io/badge/GenAI-Agentic%20AI-7C3AED?style=for-the-badge" alt="GenAI"/> <img src="https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
 </div>
 
 ---
+
 ## 🧑‍💻 About Me
 I work at the intersection of **Data Science, AI Engineering, and practical technical training**. My focus is taking a solution from a **business problem to a working, testable application**.
 
@@ -22,18 +29,21 @@ I work at the intersection of **Data Science, AI Engineering, and practical tech
 
 ## 🚀 Engineering Journey
 <div align="center">
+
 **DATA ANALYTICS** → **DATA SCIENCE** → **MACHINE LEARNING** → **ML ENGINEERING** → **MLOPS**
 
-↓
+↓  
 
 **DEEP LEARNING** → **COMPUTER VISION / NLP** → **GENAI / LLM** → **RAG**
 
 ↓
 
 **AGENTIC AI** → **MCP** → **AI AUTOMATION** → **AI APPLICATION ENGINEERING** → **AI PLATFORM / CAPSTONE**
+
 </div>
 
 ---
+
 ## 🧰 Technology Stack
 **Data:** `Python` `Pandas` `NumPy` `SQL` `Statistics` `EDA` `Matplotlib` `Seaborn` `Power BI`
 
@@ -50,6 +60,7 @@ I work at the intersection of **Data Science, AI Engineering, and practical tech
 **Engineering:** `FastAPI` `Flask` `Streamlit` `Docker` `MLflow` `DVC` `AWS` `pytest` `Git` `GitHub`
 
 ---
+
 ## ⭐ Featured Projects
 ### 🏢 WAR-ROOM — AI Platform / Capstone
 End-to-end AI engineering project focused on application architecture, APIs, services, testing and AI workflows.
@@ -76,6 +87,7 @@ Hands-on Hugging Face and parameter-efficient fine-tuning experiments.
 [Fine-Tuning](https://github.com/varma5359/huggingface-project-2_fine_tuning) • [TinyLlama + QLoRA](https://github.com/varma5359/Fine-Tuning-TinyLlama-using-QLoRA-for-a-Custom-Support-Assistant)
 
 ---
+
 ## 📂 Portfolio by Engineering Stage
 <details><summary><strong>01 · 📊 Data Analytics & Data Quality</strong></summary>
 - [E-Commerce Sales Analytics](https://github.com/varma5359/ecommerce-sales-analytics)
@@ -127,6 +139,7 @@ Hands-on Hugging Face and parameter-efficient fine-tuning experiments.
 </details>
 
 ---
+
 ## 🎓 Teaching & Interview Resources
 I also create structured learning material for students and job aspirants.
 
@@ -140,15 +153,19 @@ I also create structured learning material for students and job aspirants.
 **Teaching approach:** Concept → Business Scenario → Code → Project → Interview Question → Engineering Practice
 
 ---
+
 ## 🏗️ How I Build Projects
 <div align="center">
+
 **Business Problem** → **Data / Knowledge** → **Analysis** → **Model / LLM** → **Evaluation** → **API / Application** → **Testing** → **Automation / MLOps** → **Production-Oriented System**
 
 ### AI Application Flow
 **User** → **Application** → **LLM** → **RAG / Tools** → **Agent** → **MCP / External Systems** → **Action** → **Result**
+
 </div>
 
 ---
+
 ## 📊 GitHub Activity
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=varma5359&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
@@ -158,14 +175,18 @@ I also create structured learning material for students and job aspirants.
 </div>
 
 ---
+
 ## 🎯 Current Direction
 **AI Engineering → Agentic AI → MCP → AI Automation → AI Application Engineering → AI Platforms**
 
 The objective is to build systems that are increasingly **structured, testable, maintainable, and useful for real business problems**.
 
 <div align="center">
+
 ### 💡 Learn • Build • Test • Deploy • Improve
+
 **Thanks for visiting my profile!**
 
 <a href="https://github.com/varma5359">Explore my GitHub →</a>
+
 </div>

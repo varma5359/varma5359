@@ -20,7 +20,6 @@
 
 </div>
 
----
 
 <h1 align="center">Ravi Varma</h1>
 
@@ -46,9 +45,9 @@ Master of Computer Science
 
 </div>
 
----
 
-## About Me
+<a name="about-me"></a>
+<p align="center"><img src="assets/section-about-me.svg" alt="About Me" width="100%"></p>
 
 I am a **Data Science and AI Engineer** with a **Master of Computer Science**, focused on the complete AI engineering lifecycle: from data analytics, machine learning and MLOps to deep learning, GenAI, RAG, Agentic AI, MCP and AI automation.
 
@@ -56,9 +55,9 @@ I build practical, project-driven solutions that turn business problems into wor
 
 Alongside engineering, I work as a **technical trainer**, teaching practical Data Science, Machine Learning, GenAI and Agentic AI, and helping learners prepare for interviews through project-based learning.
 
----
 
-## Technical Skills
+<a name="technical-skills"></a>
+<p align="center"><img src="assets/section-technical-skills.svg" alt="Technical Skills" width="100%"></p>
 
 **Programming**
 <br>
@@ -151,9 +150,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
 <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF&labelColor=161B22" alt="SQLite">
 <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&labelColor=161B22" alt="ChromaDB">
 
----
 
-## Engineering Journey
+<a name="engineering-journey"></a>
+<p align="center"><img src="assets/section-engineering-journey.svg" alt="Engineering Journey" width="100%"></p>
 
 ```text
  DATA ANALYTICS
@@ -185,9 +184,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
  AI PLATFORM / CAPSTONE
 ```
 
----
 
-## Featured Projects
+<a name="featured-projects"></a>
+<p align="center"><img src="assets/section-featured-projects.svg" alt="Featured Projects" width="100%"></p>
 
 <table>
   <tr>
@@ -228,9 +227,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
   </tr>
 </table>
 
----
 
-## Complete Project Portfolio
+<a name="complete-project-portfolio"></a>
+<p align="center"><img src="assets/section-complete-project-portfolio.svg" alt="Complete Project Portfolio" width="100%"></p>
 
 ### 01 · Data Analytics
 
@@ -369,9 +368,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
 **ML / DL / NLP**
 * [ML-DL-NLP-Interview_Questions](https://github.com/varma5359/ML-DL-NLP-Interview_Questions)
 
----
 
-## GitHub Statistics
+<a name="github-statistics"></a>
+<p align="center"><img src="assets/section-github-statistics.svg" alt="GitHub Statistics" width="100%"></p>
 
 <div align="center">
 
@@ -388,9 +387,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
 
 </div>
 
----
 
-## Currently Learning
+<a name="currently-learning"></a>
+<p align="center"><img src="assets/section-currently-learning.svg" alt="Currently Learning" width="100%"></p>
 
 ```text
  Advanced Agentic AI
@@ -410,9 +409,9 @@ Alongside engineering, I work as a **technical trainer**, teaching practical Dat
  AI Platforms
 ```
 
----
 
-## Teaching and Knowledge Sharing
+<a name="teaching-and-knowledge-sharing"></a>
+<p align="center"><img src="assets/section-teaching-and-knowledge-sharing.svg" alt="Teaching and Knowledge Sharing" width="100%"></p>
 
 Alongside building AI systems, I focus on helping others learn them in a practical, career-oriented way:
 
@@ -441,9 +440,9 @@ Alongside building AI systems, I focus on helping others learn them in a practic
  CAREER
 ```
 
----
 
-## Open to Collaborate
+<a name="open-to-collaborate"></a>
+<p align="center"><img src="assets/section-open-to-collaborate.svg" alt="Open to Collaborate" width="100%"></p>
 
 * Generative AI
 * Agentic AI
@@ -456,9 +455,9 @@ Alongside building AI systems, I focus on helping others learn them in a practic
 * AI startup ideas
 * Technical education
 
----
 
-## Engineering Philosophy
+<a name="engineering-philosophy"></a>
+<p align="center"><img src="assets/section-engineering-philosophy.svg" alt="Engineering Philosophy" width="100%"></p>
 
 <div align="center">
 
@@ -486,9 +485,9 @@ Alongside building AI systems, I focus on helping others learn them in a practic
  INTELLIGENT AI SYSTEM
 ```
 
----
 
-## Contact
+<a name="contact"></a>
+<p align="center"><img src="assets/section-contact.svg" alt="Contact" width="100%"></p>
 
 <div align="center">
 
@@ -502,3 +501,5 @@ Alongside building AI systems, I focus on helping others learn them in a practic
 <a href="mailto:ravisoftech150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email"></a>
 
 </div>
+
+<p align="center"><img src="assets/footer.svg" alt="Ravi Varma - Data Science, AI Engineer, GenAI, Agentic AI" width="100%"></p>
